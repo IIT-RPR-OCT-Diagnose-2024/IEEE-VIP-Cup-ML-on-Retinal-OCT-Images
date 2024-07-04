@@ -31,5 +31,8 @@ An excerpt containing the abstract of the paper is given below.
 For any official query/verification, please contact:
 **Dr. Puneet Goyal, puneet@iitrpr.ac.in**
 
+## Proof of Internship
+![temp](https://github.com/IIT-RPR-OCT-Diagnose-2024/IEEE-VIP-Cup-ML-on-Retinal-OCT-Images/assets/123007735/9afb1b64-0077-4131-bcad-2a03724993ee)
+
 ## Paper Submitted
 ![report-pg1](https://github.com/IIT-RPR-OCT-Diagnose-2024/IEEE-VIP-Cup-ML-on-Retinal-OCT-Images/assets/123007735/5b448638-b394-47cf-b5e4-805e607845bd)
