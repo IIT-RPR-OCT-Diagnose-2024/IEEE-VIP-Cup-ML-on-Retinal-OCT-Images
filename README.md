@@ -1,6 +1,6 @@
 # Classification of Noisy Low Resolution OCT Retinal Images
 
-I am a member of the IIT Ropar Team that is participating in the IEEE VIP CUP 2024 (Signal Processing Society). This project is under the supervision of Dr. Puneet Goyal, Associate Professor, Department of CSE, IIT Ropar. 
+We are the IIT Ropar Team participating in the IEEE VIP CUP 2024 (Signal Processing Society). This project is under the supervision of Dr. Puneet Goyal, Associate Professor, Department of CSE, IIT Ropar.
 
 ### Team Members: Ankush Naskar, Satvik Srivastava, Hemlata Gautam, Ashish Gupta, Utkarsh Patel
 ### Faculty Supervisor: Dr. Puneet Goyal
