@@ -36,3 +36,7 @@ For any official query/verification, please contact:
 
 ## Paper Submitted
 ![ResearchPaper-Pg1](https://github.com/IIT-RPR-OCT-Diagnose-2024/IEEE-VIP-Cup-ML-on-Retinal-OCT-Images/assets/123007735/5b448638-b394-47cf-b5e4-805e607845bd)
+
+## Excerpt from Paper Submitted howing Results Achieved
+![VIP_Cup_Results_Img_Landscape](https://github.com/user-attachments/assets/98cea516-a624-4fbb-b8b0-2334a9d5470f)
+
