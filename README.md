@@ -19,6 +19,8 @@ Final Submission of Team’s Work Deadline: 15 June 2024 <br>
 Announcement of 3 finalist teams: 15 July 2024 <br>
 Final competition at International Conference on Image Processing 2024, Abu Dhabi: October 27-30, 2024 <br>
 
+## Results
+![Uploading e88416ef-0bf5-47dc-8919-7e0ca2b3d903.jpg…]()
 
 Official Page: https://signalprocessingsociety.org/community-involvement/video-image-processing-cup
 
