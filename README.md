@@ -27,9 +27,6 @@ Official Page: https://signalprocessingsociety.org/community-involvement/video-i
 
 ## Project Submission
 We have a submitted a paper describing our approach for solving the three challenges and showcasing our results achieved by our Machine Learning Models. <br>
-
-${{\color{#d00}\large{\text{Since the Final Round of the contest is still pending, the code, technical details and }}}}$ <br> ${{\color{#d00}\large{\text{the complete paper cannot be published publicly.}}}}$
-
 An excerpt containing the abstract of the paper is given below.
 
 
