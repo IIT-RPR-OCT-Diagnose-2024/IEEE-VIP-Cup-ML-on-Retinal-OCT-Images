@@ -1,5 +1,3 @@
-# Classification of Noisy Low Resolution OCT Retinal Images
-
 ### Finalist Team in IEEE VIP CUP 2024 (Signal Processing Society)
 
 We are thrilled to be among the top 3 **Global Finalist Teams** in the **IEEE VIP CUP 2024** (Signal Processing Society). Representing IIT Ropar, our project is supervised by Dr. Puneet Goyal, Associate Professor, Department of CSE at IIT Ropar.
@@ -20,10 +18,9 @@ Announcement of 3 finalist teams: 15 July 2024 <br>
 Final competition at International Conference on Image Processing 2024, Abu Dhabi: October 27-30, 2024 <br>
 
 ## Results
-![Official Results](https://github.com/IIT-RPR-OCT-Diagnose-2024/IEEE-VIP-Cup-ML-on-Retinal-OCT-Images/blob/main/Official-Results.jpeg)
+![Official Standings](https://github.com/IIT-RPR-OCT-Diagnose-2024/IEEE-VIP-Cup-ML-on-Retinal-OCT-Images/blob/main/OfficialStandings.png)
 
-
-Official Page: https://signalprocessingsociety.org/community-involvement/video-image-processing-cup
+Official Page: [Link](https://2024.ieeeicip.org/vip-cup/)
 
 ## Project Submission
 We have a submitted a paper describing our approach for solving the three challenges and showcasing our results achieved by our Machine Learning Models. <br>
